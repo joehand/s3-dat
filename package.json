@@ -1,0 +1,25 @@
+{
+  "name": "s3-dat",
+  "version": "1.0.0",
+  "description": "Download data from s3 into a dat!",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "Joe Hand <joe@hand.email> (https://joeahand.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "dat-node": "^1.0.0-alpha-2.1.3",
+    "s3": "^4.4.0",
+    "url-dat": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joehand/s3-dat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joehand/s3-dat/issues"
+  },
+  "homepage": "https://github.com/joehand/s3-dat#readme"
+}
